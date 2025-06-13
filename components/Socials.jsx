@@ -4,10 +4,10 @@ import { FaGithub, FaLinkedinIn, FaYoutube, FaSteam } from "react-icons/fa";
 import { SiTableau } from "react-icons/si";
 
 const socials = [
-  { icon: <FaGithub />, path: "https://github.com/Nazorange" },
-  { icon: <FaLinkedinIn />, path: "https://www.linkedin.com/in/cusenaz/" },
+  { icon: <FaGithub />, path: "https://github.com/Naaz13boi" },
+  { icon: <FaLinkedinIn />, path: "https://www.linkedin.com/in/nawazishkhalander/" },
   { icon: <SiTableau />, path:"https://public.tableau.com/app/profile/nawazish.khalander.shaik.mohammed/vizzes"},
-  { icon: <FaSteam />, path: "https://steamcommunity.com/id/NwZz69/" },
+  { icon: <FaMedium />, path: "https://medium.com/@snkhalan" },
 ];
 
 const Social = ({ containerStyles, iconStyles }) => {
