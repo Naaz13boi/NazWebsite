@@ -55,7 +55,9 @@ const Home = () => {
                   >
                     az
                   </motion.span>
-                  ish K S M
+                  ish 
+                  <br />
+                  K S M
                 </span>
               </h1>
               <p className="max-w-[500px] mb-9 text-white/80 text-justify">
