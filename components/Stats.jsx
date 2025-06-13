@@ -7,16 +7,16 @@ const stats = [
         text: "Years of experience",
     },
     {
-        num: 11,
-        text: "Projects",
+        num: 5,
+        text: "Fields Explored",
     },
     {
-        num: 12,
-        text: "Technologies Mastered",
+        num: 15,
+        text: "Projects Delivered",
     },
     {
         num: 682,
-        text: "Hours in Destiny 2",
+        text: "Hours spent Debugging",
     },
 ];
 
