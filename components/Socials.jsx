@@ -1,6 +1,6 @@
 import Link from "next/link";
 
-import { FaGithub, FaLinkedinIn, FaYoutube, FaSteam } from "react-icons/fa";
+import { FaGithub, FaLinkedinIn, FaYoutube, FaMedium } from "react-icons/fa";
 import { SiTableau } from "react-icons/si";
 
 const socials = [
