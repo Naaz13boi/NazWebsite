@@ -46,14 +46,14 @@ const Home = () => {
                   >
                     Na
                   </motion.span>
-                  wa
+                  w
                   <motion.span
                     className="text-accent"
                     initial="hidden"
                     animate="visible"
                     variants={fadeVariants}
                   >
-                    z
+                    az
                   </motion.span>
                   ish Khalander
                 </span>
