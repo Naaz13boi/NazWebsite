@@ -58,7 +58,7 @@ const about = {
         },
         {
          fieldName: "Linguality",
-         fieldValue: "Polyglotism"  
+         fieldValue: "Polyglot"  
         }
     ]   
 };
@@ -287,6 +287,11 @@ const project = {
     description:
       "An assortment of projects undertaken by me individually or as a team member. These projects reflect my ability to apply technical skills, collaborate effectively, and deliver impactful solutions in various domains.",
     items: [
+      {
+        Name: "GutenbergLM",
+        description: "An attempt at making my own S(small)LM.",
+        TechStack: "Python",
+      },
       {
         Name: "Price Elasticity Modelling Using PYSPARK",
         description: "An attempt to measure how sensitive consumer demand is to changes in price.",
