@@ -63,13 +63,18 @@ const about = {
     ]   
 };
   
-// about ecperience 
+// about experience 
 const experience = {
     icon: "/assets/resume/badge.svg",
     title: "My Experience",
     description:
       "With a strong foundation in computer science and a continuous drive for learning, my professional journey encompasses diverse roles in the tech industry. Each position has honed my skills and deepened my expertise, from data analytics and customer success to web development and blockchain technology. Below are highlights from my career:",
     items: [
+      {
+        company: "Syracuse University.",
+        position: "Research Analyst",
+        duration: "Jun 2025 - Jun 2026",
+      },
       {
         company: "Aptean.",
         position: "Data Analyst",
@@ -81,9 +86,9 @@ const experience = {
         duration: "Summer 2021",
       },
       {
-        company: "INTERAKTIVE.  IO",
-        position: "Data Engineer",
-        duration: "Jan 2021 - Oct 2021",
+        company: "INTERAKTIVE.IO",
+        position: "Founding Data Scientist",
+        duration: "Jan 2021 - Mar 2022",
       },
     ],
 };
