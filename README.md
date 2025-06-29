@@ -82,25 +82,12 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out the [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
-## 🛠️ Project Features
-
-- **About Me:** Get to know more about my background, education, and experience.
-- **Projects:** Explore a diverse array of projects, from web development to data science and blockchain technology.
-- **Skills:** A comprehensive list of the tools and technologies I am proficient in.
-- **Contact:** Feel free to reach out to me through my social media links.
-
-## 📈 Future Roadmap
-
-This summer, I am planning to integrate data analytics dashboards into my portfolio, showcasing:
-- **Advanced Data Visualization:** Creating interactive dashboards for complex datasets.
-- **Predictive Analytics:** Utilizing machine learning models to forecast trends.
-- **Real-time Data Analysis:** Implementing real-time data streaming and analytics.
 
 ## 📬 Contact & Socials
 
 - **Email:** [snkhalan@g.syr.edu](mailto:snkhalan@g.syr.edu)
 - **LinkedIn:** [Nawazish Khalander](https://www.linkedin.com/in/nawazish-khalander)
-- **GitHub:** [github.com/yourusername](https://github.com/Nazorange)
+- **GitHub:** [github.com/Naaz](https://github.com/Nazorange)
 
 
 Your feedback is invaluable to me as I continue to grow and improve. Feel free to explore my website and share your thoughts or suggestions.
