@@ -12,8 +12,8 @@ variable: "--font-jetbrainsMono",
 });
 
 export const metadata = {
-  title: "Naz's Website",
-  description: "Welcome to Nawazish Khalander's Portfolio",
+  title: "Naaz's Website",
+  description: "Nawazish Khalander's Portfolio",
 };
 
 export default function RootLayout({ children }) {
