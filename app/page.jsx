@@ -65,16 +65,6 @@ const Home = () => {
               </p>
               {/* btn and socials */}
               <div className="flex flex-col xl:flex-row items-center gap-8">
-                <a href="/CV.pdf" download>
-                  <Button
-                    variant="outline"
-                    size="lg"
-                    className="uppercase flex items-center gap-2"
-                  >
-                    <span>CV</span>
-                    <FiDownload className="text-xl" />
-                  </Button>
-                </a>
                 <div className=" xl:mb-0">
                   <Socials
                     containerStyles="flex gap-6"
