@@ -46,7 +46,7 @@ const about = {
         },
         {
          fieldName: "Experience",
-         fieldValue: "2 Years"
+         fieldValue: "3 Years"
         },
         {
          fieldName: "Nationality",
@@ -71,18 +71,23 @@ const experience = {
       "With a strong foundation in computer science and a continuous drive for learning, my professional journey encompasses diverse roles in the tech industry. Each position has honed my skills and deepened my expertise, from data analytics and customer success to web development and blockchain technology. Below are highlights from my career:",
     items: [
       {
+        company: "Prosh.",
+        position: "AI Engineer",
+        duration: "Jan 2025 - Jun 2026",
+      },
+      {
         company: "Syracuse University.",
         position: "Research Analyst",
         duration: "Jun 2025 - Jun 2026",
       },
       {
         company: "Aptean.",
-        position: "Data Analyst",
+        position: "Data Scientist",
         duration: "Mar 2022 - Mar 2023",
       },
       {
         company: "BrainOVision",
-        position: "Data Analyst Intern",
+        position: "Data Science Intern",
         duration: "Summer 2021",
       },
       {
@@ -100,6 +105,11 @@ const education = {
     description:
       "",
     items: [
+      {
+        institution: "Syracuse University",
+        degree: "Certificate of Advanced Studies",
+        duration: "2023 - 2025",
+      },
       {
         institution: "Syracuse University",
         degree: "MS In Applied Data Science",
